@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Cuprum:ital,wght@0,400..700;1,400..700&display=swap');
+body {font-family: "Cuprum", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    background: url(./shrek2.jpg);
+    
+}
+.red {
+    text-align: center;
+    font-size: 50px;
+    color: silver;
+}
+.blue {
+font-size: 30px;
+width: 1300px;
+color: goldenrod;
+}
+img {
+position: absolute;
+margin-left: 50px;    
+}
+.daun {
+    margin-top: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    scale: 3;
+    color: silver;
+
+
+}
